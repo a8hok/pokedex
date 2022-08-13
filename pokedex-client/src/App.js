@@ -1,8 +1,8 @@
 import React from "react";
 import { Route, Routes } from "react-router-dom";
 import { useState, useEffect } from "react";
-import Login from "./components/login/login";
-import Signup from './components/signup/signup';
+import Login from "./components/Login/login";
+import Signup from './components/Signup/Signup';
 import Home from "./components/home/home";
 import axios from "axios";
 // import pagenotfound from "./components/pagenotfound/pagenotfound"
