@@ -16,7 +16,7 @@ function Signup() {
                 login
               </Link>
 
-              <Link to="Home/" className="text-2xl font-medium text-white rounded-3xl px-6 pt-2 p-3 hover:bg-red-500 hover:text-black">
+              <Link to="/Home" className="text-2xl font-medium text-white rounded-3xl px-6 pt-2 p-3 hover:bg-red-500 hover:text-black">
                 pokemon
               </Link>
 
